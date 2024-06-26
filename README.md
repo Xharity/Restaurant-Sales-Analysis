@@ -1,4 +1,4 @@
-# Restaurant-Sales-Analysis
+# Restaurant-Orders-Analysis
 
 ## **Restaurant Orders Report**
 
